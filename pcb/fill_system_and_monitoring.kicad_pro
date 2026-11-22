@@ -630,14 +630,9 @@
         "filename": "fill_system_and_monitoring.kicad_sch",
         "name": "fill_system_and_monitoring",
         "uuid": "96ba8e21-485d-4eae-8d3b-9e92d3991c0a"
-      },
-      {
-        "filename": "power.kicad_sch",
-        "name": "power",
-        "uuid": "f3030d5d-e36d-4385-ba2a-adc0815afc46"
       }
     ],
-    "used_designators": "TC1-2",
+    "used_designators": "U1-11,U13-15,C1-27,#PWR4-6,#PWR10-13,#PWR16-19,#PWR21-23,#PWR47-68,J1,J7,R1-25,Q1-5,CN1-14,P1-2,L3-4",
     "variants": []
   },
   "sheets": [
@@ -646,7 +641,15 @@
       "fill_system_and_monitoring"
     ],
     [
-      "f3030d5d-e36d-4385-ba2a-adc0815afc46",
+      "856f1efb-80c1-4ebf-a60e-1a00c5e3984d",
+      "pyro"
+    ],
+    [
+      "22dbd0bd-39a2-40a1-ad75-9b272eb5d70c",
+      "peripherals"
+    ],
+    [
+      "aca9f8de-780b-4c2c-9914-ae675a276189",
       "power"
     ]
   ],
